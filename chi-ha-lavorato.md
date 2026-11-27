@@ -25,7 +25,7 @@ I testi di questa repo li ha scritti l'orchestratore, tranne le risposte in `con
 | Consulente 5 | Claude Fable 5.2 | predefinito | 2 min 37 s | 1,07 $ | Parere indipendente, senza conoscere la posizione dell'orchestratore |
 | Consulente 6 | GPT-6.2 Astra | max | 8 min 44 s | 0,76 $ | Parere indipendente |
 | Lettura delle documentazioni | sotto-agenti dell'orchestratore | non noto | meno di un minuto | non noto | Tre pagine ufficiali su Liveblocks e WebMCP |
-| Pubblicazione | Claude Opus 5.5 | predefinito | | | Ha creato la repo e caricato i file |
+| Pubblicazione | Claude Opus 5.5 | predefinito | 36 s | non noto | Ha creato la repo e caricato i file. Questa riga l'ha completata dopo l'orchestratore, con un secondo commit |
 
 Durate e costi sono quelli riportati dall'app con cui ho avviato le chat. I sei consulenti sono costati in tutto 2,74 dollari, più Gemini.
 
